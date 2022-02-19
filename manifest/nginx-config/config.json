@@ -3,7 +3,8 @@
   "asset_id": "11223344",
   "cluster": {
     "owner": "cluster-admin@company.com",
-    "name": "engineering-dev",
+    "name": "nginx-dev",
     "address": "http://1.2.3.4"
-  }
+  },
+  "revision": "HEAD"
 }
