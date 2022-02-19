@@ -1,10 +1,10 @@
 {
   "aws_account": "123456",
   "asset_id": "11223344",
+  "revision": "HEAD",
   "cluster": {
     "owner": "cluster-admin@company.com",
     "name": "nginx-dev",
     "address": "http://1.2.3.4"
-  },
-  "revision": "HEAD"
+  }
 }
